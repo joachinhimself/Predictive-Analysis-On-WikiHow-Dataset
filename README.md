@@ -70,7 +70,7 @@ The analysis of the machine learning models reveals significant variability in p
 - In contrast, the **Decision Tree Regressor**, **Random Forest Classifier**, **XGBoost Classifier**, and **Gradient Boosting** models exhibited outstanding predictive capabilities, achieving perfect accuracy and error metrics.
 
 **Prediction Success**: 
-- The classification models demonstrated a successful prediction capability, particularly in binary classification tasks, as evidenced by their high accuracy, precision, and recall. However, the perfect scores across multiple models indicate a potential overfitting issue, warranting further validation on unseen datasets to confirm generalization.
+- The classification models demonstrated a successful prediction capability, particularly in binary classification tasks, as evidenced by their high accuracy, precision, and recall. However, the perfect scores across multiple models indicate a potential overfitting issue, warranting further validation.
 
 ### Recommendations
 - **Validation on Unseen Data**: It’s crucial to test these models on a separate validation dataset to assess their generalization capabilities.
