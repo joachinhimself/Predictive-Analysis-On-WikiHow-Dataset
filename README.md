@@ -1,6 +1,6 @@
 ### Comprehensive Analysis of Predictive Machine Learning Models On WikiHow Dataset
 
-In this analysis, i evaluated the performance of four machine learning models applied to a regression and classification problem: **Linear Regression**, **Decision Tree Regressor**, **Random Forest Classifier**, **XGBoost Classifier**, and **Gradient Boosting**. 
+In this analysis, i evaluated the performance of machine learning models : **Linear Regression**, **Decision Tree Regressor**, **Random Forest Classifier**, **XGBoost Classifier**, and **Gradient Boosting** applied to WikiHow dataset. 
 
 The goal is to assess their effectiveness in predicting outcomes based on provided data.
 
