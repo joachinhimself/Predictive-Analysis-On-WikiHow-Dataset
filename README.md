@@ -1,4 +1,4 @@
-### Comprehensive Analysis of Predictive Machine Learning Models On WikiHow Dataset
+### Predictive Machine Learning Models On WikiHow Dataset
 
 In this analysis, i evaluated the performance of machine learning models : **Linear Regression**, **Decision Tree Regressor**, **Random Forest Classifier**, **XGBoost Classifier**, and **Gradient Boosting** applied to WikiHow dataset. 
 
